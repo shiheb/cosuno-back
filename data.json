@@ -1,0 +1,248 @@
+{
+  "specialties": [
+    {
+      "id": 0,
+      "name": "excavation"
+    },
+    {
+      "id": 1,
+      "name": "plumbing"
+    },
+    {
+      "id": 2,
+      "name": "electrical"
+    },
+    {
+      "id": 3,
+      "name": "bridges"
+    },
+    {
+      "id": 4,
+      "name": "roads"
+    },
+    {
+      "id": 5,
+      "name": "knockdown"
+    },
+    {
+      "id": 6,
+      "name": "residential"
+    }
+  ],
+  "companies": [
+    {
+      "id": 0,
+      "name": "Bechtel",
+      "specialties": ["excavation"],
+      "city": "Berlin"
+    },
+    {
+      "id": 1,
+      "name": "Fluor Corporation",
+      "specialties": ["excavation", "plumbing"],
+      "city": "Hamburg"
+    },
+    {
+      "id": 2,
+      "name": "AECOM",
+      "specialties": ["excavation", "plumbing", "electrical"],
+      "city": "Dortmund"
+    },
+    {
+      "id": 3,
+      "name": "Skanska USA",
+      "specialties": ["excavation", "plumbing", "electrical", "bridges"],
+      "city": "Köln"
+    },
+    {
+      "id": 4,
+      "name": "Kiewit Corporation",
+      "specialties": [
+        "excavation",
+        "plumbing",
+        "electrical",
+        "bridges",
+        "roads"
+      ],
+      "city": "Berlin"
+    },
+    {
+      "id": 5,
+      "name": "Jacobs Engineering Group",
+      "specialties": [
+        "excavation",
+        "plumbing",
+        "electrical",
+        "bridges",
+        "roads",
+        "knockdown"
+      ],
+      "city": "Hamburg"
+    },
+    {
+      "id": 6,
+      "name": "PCL Construction Enterprises",
+      "specialties": [
+        "excavation",
+        "plumbing",
+        "electrical",
+        "bridges",
+        "roads",
+        "knockdown",
+        "residential"
+      ],
+      "city": "Dortmund"
+    },
+    {
+      "id": 7,
+      "name": "Balfour Beatty Construction",
+      "specialties": [
+        "plumbing",
+        "electrical",
+        "bridges",
+        "roads",
+        "knockdown",
+        "residential"
+      ],
+      "city": "Köln"
+    },
+    {
+      "id": 8,
+      "name": "Gilbane Building Company",
+      "specialties": [
+        "electrical",
+        "bridges",
+        "roads",
+        "knockdown",
+        "residential"
+      ],
+      "city": "Berlin"
+    },
+    {
+      "id": 9,
+      "name": "Lendlease",
+      "specialties": ["roads", "knockdown", "residential"],
+      "city": "Dortmund"
+    },
+    {
+      "id": 10,
+      "name": "Holder Construction Company",
+      "specialties": ["knockdown", "residential"],
+      "city": "Köln"
+    },
+    {
+      "id": 11,
+      "name": "The Walsh Group",
+      "specialties": ["residential"],
+      "city": "Berlin"
+    },
+    {
+      "id": 12,
+      "name": "Whiting-Turner Contracting",
+      "specialties": ["excavation"],
+      "city": "Hamburg"
+    },
+    {
+      "id": 13,
+      "name": "VINCI",
+      "specialties": ["excavation", "electrical"],
+      "city": "Dortmund"
+    },
+    {
+      "id": 14,
+      "name": "Grupo ACS",
+      "specialties": ["excavation", "electrical", "roads"],
+      "city": "Köln"
+    },
+    {
+      "id": 15,
+      "name": "Hochtief",
+      "specialties": ["excavation", "electrical", "roads"],
+      "city": "Berlin"
+    },
+    {
+      "id": 16,
+      "name": "Skanska",
+      "specialties": ["excavation", "electrical", "roads", "residential"],
+      "city": "Hamburg"
+    },
+    {
+      "id": 17,
+      "name": "Balfour Beatty",
+      "specialties": ["plumbing"],
+      "city": "Dortmund"
+    },
+    {
+      "id": 18,
+      "name": "Bouygues Construction",
+      "specialties": ["plumbing", "bridges"],
+      "city": "Köln"
+    },
+    {
+      "id": 19,
+      "name": "Kiewit Corporation",
+      "specialties": ["plumbing", "bridges", "knockdown"],
+      "city": "Berlin"
+    },
+    {
+      "id": 20,
+      "name": "Royal BAM Group",
+      "specialties": ["excavation", "plumbing"],
+      "city": "Hamburg"
+    },
+    {
+      "id": 21,
+      "name": "Laing ORourke",
+      "specialties": ["electrical", "bridges"],
+      "city": "Dortmund"
+    },
+    {
+      "id": 22,
+      "name": "China State Construction Engineering",
+      "specialties": ["roads", "knockdown"],
+      "city": "Köln"
+    },
+    {
+      "id": 23,
+      "name": "L&T Constructions",
+      "specialties": ["residential"],
+      "city": "Berlin"
+    },
+    {
+      "id": 24,
+      "name": "Fluor Corporation",
+      "specialties": ["excavation", "plumbing", "electrical"],
+      "city": "Hamburg"
+    },
+    {
+      "id": 25,
+      "name": "Turner Construction",
+      "specialties": ["bridges", "roads", "knockdown"],
+      "city": "Dortmund"
+    },
+    {
+      "id": 26,
+      "name": "PCL Construction Enterprises",
+      "specialties": ["excavation", "bridges", "residential"],
+      "city": "Köln"
+    },
+    {
+      "id": 27,
+      "name": "KBR, Inc",
+      "specialties": ["plumbing", "roads"],
+      "city": "Berlin"
+    },
+    {
+      "id": 28,
+      "name": "Jacobs Engineering Group",
+      "specialties": ["bridges"],
+      "city": "Hamburg"
+    },
+    {
+      "id": 29,
+      "name": "Hensel Phelps Construction",
+      "specialties": ["bridges", "roads", "knockdown", "residential"],
+      "city": "Hamburg"
+    }
+  ]
+}
